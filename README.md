@@ -28,5 +28,5 @@ Size can be k, m, or g. e.g 30m
 
 ## License
 
-B-em is licensed under the GPL, see LICENSE for more details.
+B-em is licensed under the GPL, see LICENSE.txt for more details.
 
